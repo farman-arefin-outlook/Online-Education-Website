@@ -44,16 +44,6 @@
 										<p>Position: Programmer</p>
 								</center>
 								</div>
-                                <!-- <div class="span3">
-															<center>
-								<img id="developers" src="admin/images/mich.jpg" class="img-circle">
-								<hr>
-												<p>Name: John Kevin Lorayna</p>
-										<p>Address: Talisay City</p>
-										<p>Email: jkevlorayna@gmail.com</p>
-										<p>Position: Project Manager</p>
-								</center>
-								</div> -->
                             </div>
                         </div>
                         <!-- /block -->
