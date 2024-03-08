@@ -20,7 +20,7 @@
 										<thead>
 										  <tr>
 												<th>Date Login</th>
-												<th>Date logout</th>
+												<th>Date Logout</th>
 												<th>Username</th>
 												
 											

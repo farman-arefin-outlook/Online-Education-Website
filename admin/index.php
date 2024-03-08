@@ -21,13 +21,13 @@
 						success: function(html){
 						if(html=='true')
 						{
-						$.jGrowl("Welcome to CHMSC Learning Management System", { header: 'Access Granted' });
+						$.jGrowl("Welcome to Online Education Website", { header: 'Access Granted' });
 						var delay = 2000;
 							setTimeout(function(){ window.location = 'dashboard.php'  }, delay);  
 						}
 						else
 						{
-						$.jGrowl("Please Check your username and Password", { header: 'Login Failed' });
+						$.jGrowl("Please Check your Username and Password", { header: 'Login Failed' });
 						}
 						}
 						

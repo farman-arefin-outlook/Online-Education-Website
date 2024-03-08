@@ -52,7 +52,7 @@
             </div>
             <hr>
             <footer>
-                <p>&copy; Vincent Gabriel 2013</p>
+                <p>&copy; CSTE 15 Batch 2024</p>
             </footer>
         </div>
         <style>
